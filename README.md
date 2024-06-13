@@ -10,3 +10,9 @@ Currently, two official plugins are available:
 You can clone project by
 
 `git clone https://github.com/shinystarlight00/react-vite-project`
+
+And you can run project by
+
+`npm install`
+
+`npm run dev`
